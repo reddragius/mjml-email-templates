@@ -1,0 +1,12 @@
+<mj-section background-color="#2f323b" mj-class="pd10">
+	<mj-column width="20%">
+		<mj-text color="#f46c4e" mj-class="pd10 fn15-center bold">
+			Did you know?
+		</mj-text>
+	</mj-column>
+	<mj-column width="80%">
+		<mj-text mj-class="pd10-15 fn13-left color-white lh15">
+			After signing in, you have the option to <a href="#" style="font-family:Helvetica, Arial, sans-serif;font-size:13px;font-weight:bold;color:#f46c4e;">download</a> any previously issued PDF document from the user interface?
+		</mj-text>
+	</mj-column>
+</mj-section>

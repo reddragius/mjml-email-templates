@@ -1,0 +1,26 @@
+<mj-section mj-class="pt10 pb10 bg-white br-light-top-lr">
+	<mj-column>
+		<mj-text mj-class="pb0 caption20 lh24">
+			Manage your server directly and without restrictions
+		</mj-text>
+		<mj-text mj-class="caption15-blue lh19">
+			from the Web console
+		</mj-text>
+		<mj-image width="540px" src="./img/console.png" alt="Web Console in UI"></mj-image>
+		<mj-text mj-class="fn14-center color-grey-lt lh16">
+			All you need is your web browser. You don't need additional software or plugins.
+		</mj-text>
+		<mj-text mj-class="caption15-blue lh19">
+			from third-party VNC clients
+		</mj-text>
+		<mj-image width="540px" src="./img/vnc.png" alt="VNC configuration in UI"></mj-image>
+		<mj-text mj-class="fn14-center color-grey-lt lh16">
+			Configure your favorite VNC client according to the VNC configuration in the UI.
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 pb0 bg-white br-light-lr">
+	<mj-column>
+		<mj-divider border-width="1px" border-color="#e5e5e5"></mj-divider>
+	</mj-column>
+</mj-section>

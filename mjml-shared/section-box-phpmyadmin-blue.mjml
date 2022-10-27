@@ -1,0 +1,16 @@
+<mj-section mj-class="pd5 bg-blue">
+	<mj-column>
+		<mj-text mj-class="caption16-white lh20">
+			PhpMyAdmin:
+		</mj-text>
+	</mj-column>
+</mj-section>
+
+<mj-section mj-class="pd10 bg-white">
+	<mj-column>
+		<mj-text mj-class="fn14-center color-black lh20">
+			Web interface address for managing SQL databases:<br>
+			<a href="http://%ipv4%%phpmyadmin_link%" class="link-underline" style="font-weight:bold;">http://%ipv4%%phpmyadmin_link%</a>
+		</mj-text>
+	</mj-column>
+</mj-section>

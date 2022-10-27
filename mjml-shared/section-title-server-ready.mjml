@@ -1,0 +1,7 @@
+<mj-section mj-class="pt10 pd10-0-10 bg-white br-light-top-lr">
+	<mj-column>
+		<mj-text mj-class="caption20 lh24">
+			Your server is ready
+		</mj-text>
+	</mj-column>
+</mj-section>

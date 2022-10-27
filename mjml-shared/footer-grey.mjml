@@ -1,0 +1,7 @@
+<mj-section mj-class="pt10 pb0">
+	<mj-column>
+		<mj-text mj-class="fn12-center lh16 color-grey-lt">
+			* This message was created automatically, please do not reply to it, your answer will not be delivered. If you have any questions, do not hesitate to contact us via form <a href="#" class="link-underline">Customer support</a>.
+		</mj-text>
+	</mj-column>
+</mj-section>

@@ -1,0 +1,75 @@
+<mj-attributes>
+	<!-- fonts -->
+	<mj-all font-family="Helvetica, Arial, sans-serif"></mj-all>
+	<mj-class name="bold" font-weight="bold" />
+	<!-- Capions -->
+	<mj-class name="caption20" align="center" color="#282828" font-size="20px" />
+	<mj-class name="caption18" align="center" color="#282828" font-size="18px" />
+	<mj-class name="caption16-white" align="center" color="#ffffff" font-size="16px" />
+	<mj-class name="caption16-blue" align="left" font-weight="bold" color="#008cbd" font-size="16px" />
+	<mj-class name="caption15-blue" align="center" font-weight="bold" color="#008cbd" font-size="15px" />
+	<mj-class name="caption14-sepia" align="center" font-weight="bold" color="#6e540e" font-size="14px" />
+	<!-- fonts line-height-->
+	<mj-class name="lh24" line-height="24px" />
+	<mj-class name="lh22" line-height="22px" />
+	<mj-class name="lh20" line-height="20px" />
+	<mj-class name="lh19" line-height="19px" />
+	<mj-class name="lh18" line-height="18px" />
+	<mj-class name="lh16" line-height="16px" />
+	<mj-class name="lh15" line-height="15px" />
+	<!-- fonts left-->
+	<mj-class name="fn16-left" align="left" font-size="16px" />
+	<mj-class name="fn15-left" align="left" font-size="15px" />
+	<mj-class name="fn14-left" align="left" font-size="14px" />
+	<mj-class name="fn13-left" align="left" font-size="13px" />
+	<mj-class name="fn12-left" align="left" font-size="12px" />
+	<!-- fonts center-->
+	<mj-class name="fn16-center" align="center" font-size="16px" />
+	<mj-class name="fn15-center" align="center" font-size="15px" />
+	<mj-class name="fn14-center" align="center" font-size="14px" />
+	<mj-class name="fn13-center" align="center" font-size="13px" />
+	<mj-class name="fn12-center" align="center" font-size="12px" />
+	<!-- colors -->
+	<mj-class name="color-grey-lt" color="#666666" />
+	<mj-class name="color-black" color="#282828" />
+	<mj-class name="color-white" color="#ffffff" />
+	<mj-class name="color-sepia" color="#6e540e" />
+	<!-- colors background -->
+	<mj-class name="bg-white" background-color="#ffffff" />
+	<mj-class name="bg-grey" background-color="#f4f4f4" />
+	<mj-class name="bg-blue" background-color="#008cbd" />
+	<mj-class name="bg-sepia" background-color="#fdf3cd" />
+	<mj-class name="bg-blue-lt" background-color="#edf1f4" />
+	<mj-class name="bg-blue-lt2" background-color="#3e97ec" />
+	<!-- colors buttons -->
+	<mj-class name="bt-blue" background-color="#008cbd" color="#ffffff" border-radius="3px" font-size="14px" />
+	<mj-class name="bt-green" background-color="#5fa91d" color="#ffffff" border-radius="3px" font-size="14px" />
+	<!-- paddings -->
+	<mj-class name="pd0" padding="0px" />
+	<mj-class name="pd5" padding="5px" />
+	<mj-class name="pd10" padding="10px" />
+	<mj-class name="pt0" padding-top="0px" />
+	<mj-class name="pb0" padding-bottom="0px" />
+	<mj-class name="pt10" padding-top="10px" />
+	<mj-class name="pb10" padding-bottom="10px" />
+	<mj-class name="pd10-15" padding="10px 15px" />
+	<mj-class name="pd10-0-10" padding-left="10px" padding-right="10px" padding-bottom="0px" />
+	<mj-class name="pd15-0-15" padding-left="15px" padding-right="15px" padding-bottom="0px" />
+	<mj-class name="pd10-10-10" padding-left="10px" padding-right="10px" padding-bottom="10px" />
+	<mj-class name="pd15-10-15" padding-left="15px" padding-right="15px" padding-bottom="10px" />
+	<mj-class name="pd-list" padding="10px 15px 0px 0px" />
+	<!-- width -->
+	<mj-class name="w25" width="25%" />
+	<mj-class name="w50" width="50%" />
+	<mj-class name="w75" width="75%" />
+	<!-- borders -->
+	<mj-class name="br-sepia" border="1px solid #8a6a12" />
+	<mj-class name="br-light" border="1px solid #e5e5e5" />
+	<mj-class name="br-light-top-lr" border-top="1px solid #e5e5e5" border-left="1px solid #e5e5e5" border-right="1px solid #e5e5e5" />
+	<mj-class name="br-light-lr" border-left="1px solid #e5e5e5" border-right="1px solid #e5e5e5" />
+	<mj-class name="br-light-bottom-lr" border-bottom="1px solid #e5e5e5" border-left="1px solid #e5e5e5" border-right="1px solid #e5e5e5" />
+</mj-attributes>
+<mj-style inline="inline">
+	.link-underline {color:inherit;text-decoration:underline}
+	.link-none {color:inherit;text-decoration:none}
+</mj-style>

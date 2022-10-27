@@ -1,0 +1,14 @@
+<mj-column padding="55px 0px" mj-class="w50 bg-sepia">
+	<mj-text mj-class="fn13-left color-sepia lh16">
+		To identify your payment, you must follow:
+	</mj-text>
+	<mj-text mj-class="fn13-left color-sepia lh16">
+		1. Correct bank account number of recipient (supplier).
+	</mj-text>
+	<mj-text mj-class="fn13-left color-sepia lh16">
+		2. Correct variable symbol.
+	</mj-text>
+	<mj-text mj-class="fn13-left color-sepia lh16">
+		3. Correct total amount to pay.
+	</mj-text>
+</mj-column>

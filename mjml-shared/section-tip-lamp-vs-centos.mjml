@@ -1,0 +1,12 @@
+<mj-section background-color="#2f323b" mj-class="pd10">
+	<mj-column width="20%">
+		<mj-text color="#f46c4e" padding-top="16px" mj-class="fn15-center bold">
+			Did you know?
+		</mj-text>
+	</mj-column>
+	<mj-column width="80%">
+		<mj-text mj-class="pd10-15 fn13-left color-white lh15">
+			That instead of manually installing OS, you can have CentOS pre-installed at one click with our <a href="#" style="font-family:Helvetica, Arial, sans-serif;font-size:13px;font-weight:bold;color:#f46c4e;">WebApps server?</a> You can reinstall an existing configuration at any time in the UI.
+		</mj-text>
+	</mj-column>
+</mj-section>

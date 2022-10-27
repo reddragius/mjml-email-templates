@@ -1,0 +1,7 @@
+<mj-section padding-bottom="15px" mj-class="pt10">
+	<mj-column>
+		<mj-text mj-class="fn12-center lh16 color-grey-lt">
+			* By payment of this tax document, the Client confirms that he / she has read the <a href="#" class="link-underline">Terms & Conditions</a>&nbsp; valid from 25.05.2018 and understood their contents and agrees with their wording in full.
+		</mj-text>
+	</mj-column>
+</mj-section>

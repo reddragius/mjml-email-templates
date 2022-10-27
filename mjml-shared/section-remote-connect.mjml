@@ -1,0 +1,97 @@
+<mj-section mj-class="pd10 bg-white br-light-top-lr">
+	<mj-column>
+		<mj-text mj-class="pb0 caption20 lh24">
+			Manage your WebApps server in the user interface
+		</mj-text>
+		<mj-text mj-class="pb0 fn16-center lh20" font-weight="lighter">
+			Take advantage of a range of features for easier content management and backup:
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 pd10-10-10 bg-white br-light-lr">
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> Apache server
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			Manage domain records, SSL and FTP users.
+		</mj-text>
+	</mj-column>
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> SQL server</span>
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			Managing MariaDB databases and users.
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 pd10-10-10 bg-white br-light-lr">
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> PHP server
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			Configure the most common features.
+		</mj-text>
+	</mj-column>
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> Firewall</span>
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			Manage network security for IPv4 and IPv6.
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 pd10-10-10 bg-white br-light-lr">
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> WatchDog</span>
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			restarts services if they fail and at the same time informs you by email.
+		</mj-text>
+	</mj-column>
+	<mj-column mj-class="w50">
+		<mj-text mj-class="caption15-blue">
+			<span style="color:#52af51;">✔</span> Back up</span>
+		</mj-text>
+		<mj-text mj-class="fn14-center color-grey-lt lh18">
+			your configuration, applications, snapshots, or use disaster recovery.
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 bg-white br-light-lr">
+	<mj-column>
+		<mj-text mj-class="pb0 caption20 lh24">
+			Are you missing some features in the GUI?
+		</mj-text>
+		<mj-text mj-class="pb0 fn16-center lh20" font-weight="lighter">
+			connect remotely with root or SSH access without restrictions:
+		</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section mj-class="pt0 pd10-10-10 bg-white br-light-lr">
+	<mj-column mj-class="w75">
+		<mj-text mj-class="fn13-left color-grey-lt lh18">
+			<span style="color:#52af51;">✔</span> Root - we don’t hold your hand, you have full control over VPS.
+		</mj-text>
+		<mj-text mj-class="fn13-left color-grey-lt lh18">
+			<span style="color:#52af51;">✔</span> Console - only a web browser is needed for remote connection.
+		</mj-text>
+		<mj-text mj-class="fn13-left color-grey-lt lh18">
+			<span style="color:#52af51;">✔</span> VNC - you can also use your favorite VNC client to connect.
+		</mj-text>
+	</mj-column>
+	<mj-column mj-class="w25">
+		<mj-image width="100px" src="./img/console-sm.png" alt="Web console in UI">
+		</mj-image>
+	</mj-column>
+</mj-section>
+
+<mj-section mj-class="pt0 pb0 bg-white br-light-lr">
+	<mj-column>
+		<mj-divider border-width="1px" border-color="#e5e5e5"></mj-divider>
+	</mj-column>
+</mj-section>

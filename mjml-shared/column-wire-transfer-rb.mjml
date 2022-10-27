@@ -1,0 +1,20 @@
+<mj-column padding="20px 0px" mj-class="w50 bg-white">
+	<mj-text text-decoration="none" mj-class="fn13-left color-black lh16">
+		Account No.: <br>XY123456890123456789
+	</mj-text>
+	<mj-text text-decoration="none" mj-class="fn13-left color-black">
+		BIC/SWIFT: XYZTZPPXXX
+	</mj-text>
+	<mj-text text-decoration="none" mj-class="fn13-left color-black">
+		Variable symbol: %faktury.vs%
+	</mj-text>
+	<mj-text text-decoration="none" mj-class="fn13-left color-black">
+		Total advance paid: € %faktury.castka%
+	</mj-text>
+	<mj-text mj-class="fn13-left color-black">
+		Due date: %faktury.datum_splatnosti%
+	</mj-text>
+	<mj-button href="#" mj-class="pt10 pb0 bt-green">
+		Invoice to download
+	</mj-button>
+</mj-column>
